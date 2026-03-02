@@ -1,0 +1,64 @@
+########################################
+# SOMNIA-AUTO — ABOUT
+########################################
+
+# Somnia-Auto — Retrodrop Automation Bot
+
+## Description
+
+A powerful and modular automation bot for the Somnia Network. Designed for efficient farming on the testnet and boosting your chances in potential retroactive airdrops.
+
+## Support
+
+@jackthedevv
+
+## Features
+
+- Multi-threaded wallet processing
+- Automatic retries with custom attempts
+- Proxy support for IP rotation
+- Wallet range selection
+- Randomized delays between actions
+- Telegram logging
+- Detailed transaction tracking
+- Modular task execution
+- Social media integrations (Twitter, Discord)
+- Discord auto-inviter
+- Blockchain messaging via Quills
+
+## Available Actions
+
+### Network
+- Claim Somnia Faucet
+- Send SOMNIA Tokens
+- Set Username
+- Fetch Account Info
+- Link Twitter/Discord
+- Complete Campaigns
+- Discord Invite Automation
+
+### Minting & NFTs
+- Mint Ping Pong Tokens
+- Mint NFTs (SHANNON, NEE, YAPPERS, SOMNI)
+- Deploy contracts (Mintair)
+
+### Trading & Messages
+- Ping Pong Token Swaps
+- Send Quills blockchain messages
+
+## Requirements
+
+- Python 3.11.1 to 3.11.6
+- Somnia-compatible private keys
+- Optional Proxies
+- Twitter API tokens
+- Discord tokens
+- Quills messages for on-chain communication
+
+## License
+
+MIT License
+
+## Disclaimer
+
+This bot is provided for educational use only. Use responsibly and at your own risk, respecting applicable laws and platform terms.

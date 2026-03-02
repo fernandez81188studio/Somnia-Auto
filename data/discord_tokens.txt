@@ -1,0 +1,2 @@
+# Add Discord tokens, one per line
+# Required for Discord linking and invite automation

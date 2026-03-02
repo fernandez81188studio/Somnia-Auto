@@ -1,0 +1,4 @@
+# Add Somnia-compatible private keys, one per line
+# Format: 0x... or raw hex
+# Example:
+# 0x1234567890abcdef...

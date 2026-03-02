@@ -1,0 +1,2 @@
+# Add Quills blockchain messages, one per line
+# Used for on-chain messaging via Quills
